@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:13.847284
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 大乘起信論廣釋卷第三．四．五
 #+PROPERTY: CBETA_ID T85n2814
 #+PROPERTY: ID KR6o0122
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2814
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0122_T_000-1121c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0122_T_005-1156b> 
 #+PROPERTY: JUAN 5
 ¶
-
- 大乘起信論廣釋卷第五¶
+大乘起信論廣釋卷第五¶
 ¶
 京西明道場沙門曇曠撰¶
 
@@ -1039,7 +1038,7 @@
 <pb:KR6o0122_T_005-1167a>¶
 中止觀隨相而言。止名為定。觀名為惠。據實¶
 而言定通止觀。惠亦如之。故梁攝云。十波羅¶
-蜜通有二體。一不散亂。謂即正定。二不顛倒。¶
+蜜通有二體。一不散亂。體即正定。二不顛倒。¶
 謂正觀真如。瑜伽論聲聞地云。復次如是心¶
 一境性。或是奢摩他品。或是毘鉢舍那品。若¶
 於九種心住中一分境性名奢摩他品。若於¶

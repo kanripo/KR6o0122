@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:01:14.172574
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:55
 #+TITLE: 大乘起信論廣釋卷第三．四．五
 #+PROPERTY: CBETA_ID T85n2814
 #+PROPERTY: ID KR6o0122
